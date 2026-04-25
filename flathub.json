@@ -1,3 +1,7 @@
 {
-  "only-arches": ["x86_64"]
+    "keep-build-dirs": false,
+    "separate-locales": true,
+    "pr-comment": "This is a Weather App made with Kotlin/Compose Multiplatform that is great for everyday use.",
+    "skip-arches": [],
+    "publish-delay": 1440
 }
